@@ -81,14 +81,12 @@ font-size: 7em;
 
 .about-web-image {
     float: left;
-    height: 300px;
-    width: 300px;
-    margin: 30px;
+    height: 250px;
+    width: 250px;
+    margin: auto;
     border-radius: 50%;
 }
 
-
-/* footer */
 
 footer {
     background: black;
