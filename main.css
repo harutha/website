@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+/* font-family: 'Montserrat', sans-serif; */
+
+/* *{
+    background-color: white;
+    box-sizing: border-box;
+    padding: 0% 0% 0% 0%;
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+    background-color: black;
+    padding: 20px 40px 10px 50px;
+}
+
+.section {
+background-color: white;
+color: gray;
+padding: 20px;
+display: flex;
+flex-direction: row;
+}
+
+
+.div {
+    background: red;
+    /* display: inline-block; */
+    width: 100px;
+    margin: auto;
+}
+
+.ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.footer {
+    background: black;
+    padding: 20px;
+}
+ */
+
+/* #navbar {
+    background-color: cornflowerblue;
+    height: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#navbar a {
+    background-color: cornflowerblue;
+    color: yellow;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#navbar a:hover {
+    color: red;
+}
+
+h1 {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100px;
+    font-weight: 800;
+    font-style: italic;
+    font-stretch: expanded;
+}
+h2 {
+    color: brown;
+    font-size: 28px;
+}
+
+.logo {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    width: 10%;
+}
+
+
+.heading {
+    display: inline-block;
+    margin: 0 auto;
+    vertical-align: middle;
+    border: 0;
+    line-height: 50px;
+    max-width: 100%;
+    width: 5%;
+    height: auto;
+    margin-bottom: 95em;
+}
+
+.container {
+    display: flex;
+    min-height: 100vh;
+    min-block-size: 100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    /* very useful */
+    align-items: center;
+    align-content: center;
+}
+
+.tophomepage {
+    width: 50%;
+}
+
+
+.box {
+    display: flex;
+    /* to use the box u have to use this */
+    /* color: black; */
+    font-size: 20px;
+    font-family: cursive;
+    text-align: center; 
+    /* align the text inside the box */
+    padding: 15px;
+
+    width: 33.3%;
+}
+
+.box1 { background-image:url("tm1.jpg"); }
+.box2 { background-image: url("tz1.jpg"); }
+.box3 { background-image: url("wich.jpg"); }
+.box4 { background-image: url("img3.jpg"); }
+.box5 { background-image: url("sa1.jpg"); }
+.box6 { background-image: url("sa3.jpg"); }
+
+.ontop {
+    width: 50%;
+}
